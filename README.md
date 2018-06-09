@@ -7,15 +7,15 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 ## Development resources
 
 - Web: (https://www.mmonen.com/web) 
-- Mail: [team@MMonen.network](mailto:team@mmonen.com)
-- GitHub: [https://github.com/MMonen-project/MMonen](https://github.com/mmonen/MMonen) 
+- Mail: [team@mmonen.com](mailto:team@mmonen.com)
+- GitHub: [https://github.com/mmonen/tmmonen](https://github.com/mmonen/mmonen) 
 ## Information
 
 MMonen is a private cryptocurrency based on Monero. Over the course of the coming months, the MMonen project aims to offer an incenvised full node layer with a secondary p2p network that offers a private communications layer based on the Tox protocol.
 
 More information on the project can be found on the website and in the whitepaper.
 
-MMonen is an open source project, and we encourage contributions from anyone with something to offer. For more information on contributing, please contact team@MMonen.network
+MMonen is an open source project, and we encourage contributions from anyone with something to offer. For more information on contributing, please contact team@mmonen.com
 
 ## Compiling MMonen from source
 
